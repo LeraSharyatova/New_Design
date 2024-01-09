@@ -1,0 +1,135 @@
+
+
+.background2{
+    position: absolute;
+    width: 1280px;
+    height: 928px;
+    left: 100px;
+    top: 0px;
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 116px;
+    text-transform: uppercase;
+    margin: 0 auto;
+    color: rgba(194, 222, 255, 0.32);
+    z-index: -2;
+}
+
+.white2{
+    position: absolute;
+    width: 910px;
+    height: 860px;
+    left: 265px;
+    top: 25px;
+    z-index: -1;
+}
+
+input{ /*прямоуголники*/
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    left: 265px;
+    border: none; 
+}
+
+
+
+.body{
+    font-family: 'Century Gothic';
+    margin: 0 auto;
+    font-weight: 400;
+}
+
+h1{
+    top: 630px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 3px color srgb rgb(0, 0, 0);
+}
+
+form{
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    width: 450px;
+    height: 450px;
+    padding: 20px;
+}
+
+label{/*названия иконок*/
+    padding-left: 1px;
+    text-transform: uppercase;
+    font-family: 'Century Gothic';
+}
+
+input:focus{
+    border:2px color rgb(255, 255, 255)
+}
+
+button {/*отправить*/
+    width: 200px;
+    height: 50px;
+    color:aliceblue;
+    border-radius: 9px;
+    background-color: black ;
+    left: 265px;
+    /*padding: 10px 30px;*/
+}
+
+.add{
+    left: 265px;
+}
+
+.line1{
+    position: absolute;
+    width: 910px;
+    height: 0px;
+    left: 265px;
+    top: 200px;
+    
+}
+
+.line2{
+    position: absolute;
+    width: 910px;
+    height: 0px;
+    left: 265px;
+    top: 400px;
+}
+
+.line3{
+    position: absolute;
+    width: 910px;
+    height: 0px;
+    left: 265px;
+    top: 300px;
+}
+
+.line4{
+    position: absolute;
+    width: 910px;
+    height: 0px;
+    left: 265px;
+    top: 480px;
+}
+.name{
+    font-weight: 400px;
+    top: 480px;
+}
+
+
+animation-iteration-count: infinite;
+
+https://stylecss.ru/effekty-pri-navedenii-na-kartinku-css/?_page=2
+
+<picture class="pblack6">
+                <img src="pblack.png" alt="альтернативный текст">
+            </picture>
+
+            class="grey-image"
+            minijoipet
+made_up
+website
+carprice
